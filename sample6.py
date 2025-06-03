@@ -1,6 +1,6 @@
 import random
 
-from chroma_db.test.sample_files.sample2 import say_hi
+from sample2 import say_hi
 
 guesses_made = 0
 
